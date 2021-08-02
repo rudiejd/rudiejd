@@ -1,4 +1,4 @@
-### Hi there 👋
+### "when i see a push door, i like to pull before i go in to avoid any conflicts" -anon
 
 <!--
 **rudiejd/rudiejd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![JD's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudiejd)](https://github.com/rudiejd)
