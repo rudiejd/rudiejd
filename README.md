@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![JD's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudiejd)](https://github.com/rudiejd)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudiejd)](https://github.com/rudiejd)
